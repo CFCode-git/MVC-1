@@ -1,0 +1,36 @@
+Arguments: 
+  G:\Sofeware\nodejs\nodejs\node.exe G:\Sofeware\yarn\bin\yarn.js init
+
+PATH: 
+  G:\Sofeware\Cmder\vendor\git-for-windows\mingw64\bin;G:\Sofeware\Cmder\vendor\git-for-windows\usr\bin;C:\Users\yeah!\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;H:\premier\QuickTime\QTSystem;C:\Program Files\Microsoft VS Code\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;G:\Sofeware\nodejs\nodejs;G:\Sofeware\yarn\bin;G:\Sofeware\hugo;C:\Users\yeah!\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\yeah!\AppData\Local\Programs\Python\Python37;C:\Users\yeah!\AppData\Local\Microsoft\WindowsApps;C:\Users\yeah!\AppData\Roaming\npm;C:\Users\yeah!\AppData\Local\Yarn\bin;G:\Sofeware\WebStorm\WebStorm 2019.3\bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  8.16.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (G:\Sofeware\yarn\lib\cli.js:136824:13)
+      at emitNone (events.js:106:13)
+      at Interface.emit (events.js:208:7)
+      at Interface._ttyWrite (readline.js:774:16)
+      at ReadStream.onkeypress (readline.js:158:10)
+      at emitTwo (events.js:126:13)
+      at ReadStream.emit (events.js:214:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1010:36)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
